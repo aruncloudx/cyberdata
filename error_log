@@ -1,0 +1,4 @@
+1504820666: /home8/bigdatb3/public_html/forum/forum-data/ssv3_installer_payload-jaquMoH0g0.php startup
+[07-Sep-2017 18:25:59 America/Denver] PHP Notice:  Undefined index: email in /home8/bigdatb3/public_html/forum/forum-data/components/com_users/models/reset.php on line 243
+[07-Sep-2017 18:26:42 America/Denver] PHP Notice:  Undefined index: email in /home8/bigdatb3/public_html/forum/forum-data/components/com_users/models/reset.php on line 243
+[07-Sep-2017 18:27:02 America/Denver] PHP Notice:  Undefined index: email in /home8/bigdatb3/public_html/forum/forum-data/components/com_users/models/reset.php on line 144
